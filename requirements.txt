@@ -86,7 +86,7 @@ nltk==3.8.1
 numpy==1.21.6
 oauthlib==3.2.2
 objloader==0.2.0
-open3d==0.13.0
+open3d==0.16.0
 opencv-contrib-python==4.7.0.72
 opencv-python==4.7.0.72
 opt-einsum==3.3.0
