@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 
 def gen_frames():
-    camera = cv2.VideoCapture(1)
+    camera = cv2.VideoCapture('1.mp4')
     desired_width = 1280
     desired_height = 720
 
